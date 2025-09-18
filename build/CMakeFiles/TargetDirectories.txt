@@ -1,3 +1,0 @@
-/home/MiniOS (DO NOT TOUCH EITHER WAY, WORK IN PROGRESS PROJECT)/build/CMakeFiles/dos_emulator.dir
-/home/MiniOS (DO NOT TOUCH EITHER WAY, WORK IN PROGRESS PROJECT)/build/CMakeFiles/edit_cache.dir
-/home/MiniOS (DO NOT TOUCH EITHER WAY, WORK IN PROGRESS PROJECT)/build/CMakeFiles/rebuild_cache.dir
